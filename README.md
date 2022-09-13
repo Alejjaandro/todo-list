@@ -25,3 +25,11 @@
 ## Built With
 - ### [Contributor Covenant](https://www.contributor-covenant.org/) - Used for the Code of Conduct 
 - ### [Creative Commons](https://creativecommons.org/licenses/?lang=es_ES) - Used to chose the license.
+
+## Authors
+- ### [Programmer A](https://github.com/Alejjaandro)
+- ### [Programmer B](https://github.com/eloaso)
+### See also the list of contributors who participated in this project.
+
+# License
+### This project is licensed under the [Creative Commons License](https://creativecommons.org/licenses/?lang=es_ES) - see the LICENSE.md file for details.
