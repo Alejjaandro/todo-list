@@ -4,3 +4,8 @@
 
 # Getting Started
 ### This instructions will give you a copy of the project up and running on your local machine for development and testing purposes. See development for notes on deploying the project on a live sistem.
+
+## Prerequisites
+### Requirements for the softtware and other tools to build, test and push.
+- ### [Visual Studio Code](https://code.visualstudio.com/)
+- ### [VirtualBox](https://www.virtualbox.org/)
